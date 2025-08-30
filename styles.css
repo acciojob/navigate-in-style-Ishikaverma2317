@@ -1,10 +1,15 @@
+nav {
+    background-color: #D3D3D3; /* background color */
+    padding: 10px; /* padding */
+}
+
 nav ul {
-    list-style: none;  /* removes bullets */
+    list-style: none; /* removes bullets */
     margin: 0;
     padding: 0;
 }
 
 nav ul li {
-    display: inline-block; /* use inline-block for better spacing */
-    margin-right: 1rem;
+    display: inline; /* display horizontally */
+    margin-right: 1rem; /* spacing */
 }
